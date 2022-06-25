@@ -3,7 +3,7 @@ import { Text, VStack, Box } from "@chakra-ui/react";
 export function Header() {
   return (
     <Box>
-      <VStack spacing={-8} mt="6rem">
+      <VStack spacing={-8} mt="2rem">
         <Text color="white" fontSize="40px" fontWeight="600">
           SELECIONE
         </Text>

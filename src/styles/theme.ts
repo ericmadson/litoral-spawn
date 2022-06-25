@@ -7,7 +7,7 @@ export const theme = extendTheme({
   styles: {
     global: {
       "html, body": {
-        background: "#fff",
+        background: "#000",
         overflowX: "hidden",
         overflowY: "hidden",
       },
